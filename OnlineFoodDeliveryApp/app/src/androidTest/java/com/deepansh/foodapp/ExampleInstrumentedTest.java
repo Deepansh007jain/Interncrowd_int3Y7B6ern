@@ -1,4 +1,4 @@
-package com.rajendra.foodapp;
+package com.deepansh.foodapp;
 
 import android.content.Context;
 
