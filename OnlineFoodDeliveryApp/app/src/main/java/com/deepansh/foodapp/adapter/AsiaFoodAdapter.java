@@ -1,4 +1,4 @@
-package com.rajendra.foodapp.adapter;
+package com.deepansh.foodapp.adapter;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -10,9 +10,9 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.rajendra.foodapp.R;
-import com.rajendra.foodapp.model.AsiaFood;
-import com.rajendra.foodapp.model.PopularFood;
+import com.deepansh.foodapp.R;
+import com.deepansh.foodapp.model.AsiaFood;
+import com.deepansh.foodapp.model.PopularFood;
 
 import java.util.List;
 
