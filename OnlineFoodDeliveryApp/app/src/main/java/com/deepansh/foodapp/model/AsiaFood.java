@@ -1,4 +1,4 @@
-package com.rajendra.foodapp.model;
+package com.deepansh.foodapp.model;
 
 public class AsiaFood {
 
